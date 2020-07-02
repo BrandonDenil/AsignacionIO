@@ -1,0 +1,11 @@
+1.Obtener valor de los imputs con el cual sabremos el tamaño de la matriz
+2.Almacenar los valores en las variables filas y columnas
+2.Crear tabla
+    2.1 crear una cadena de texto
+    2.2 Concatenar las las etiquetas input segun tamaño de matriz
+    2.3 Apendizar con jquery la cadena al la tabla tablaDatos
+3.Obtener valores de la tabla
+    3.1 Recorrer con ciclos for haciendo uso de las variables columnas y filas
+    3.2 Agregar variables a una nueva matriz llamada tablaDatos en el cual tendremos los datos 
+    ingresados ordenadamente
+
